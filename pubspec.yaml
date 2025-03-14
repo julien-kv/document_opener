@@ -1,6 +1,6 @@
 name: document_opener
 description: A Flutter package to open PDF and CSV files without requesting broad media permissions.
-version: 1.0.1
+version: 1.0.2
 homepage: https://github.com/julien-kv/document_opener
 
 environment:
