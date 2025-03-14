@@ -1,7 +1,7 @@
 name: document_opener
 description: A Flutter package to open PDF and CSV files without requesting broad media permissions.
 version: 1.0.0
-homepage: https://github.com/scanpay/document_opener
+homepage: https://github.com/julien-kv/document_opener
 
 environment:
   sdk: ">=3.0.0 <4.0.0"
